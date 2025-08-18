@@ -1,6 +1,6 @@
 # 📝 Todo App – React + Vite
 
-A simple and responsive Todo List application built using **React** and **Vite**. You can add, delete, and mark tasks as completed—all in a clean, minimal UI.
+A simple and responsive Todo List application built using **React** and **Vite**. You can add, delete, and mark tasks as completed. all in a clean, minimal UI.
 
 ## 🚀 Features
 
