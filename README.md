@@ -79,4 +79,4 @@ Open a pull request
 
 
 
-## Made with ❤️ by @Kartik076
+## Made with by @Kartik076
